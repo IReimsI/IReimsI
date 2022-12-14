@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @IReimsI
+- 👀 I’m interested in Game development
+- 🌱 I’m currently learning С++
+- 📫 How to reach me Instagram: _i_reims_i_
