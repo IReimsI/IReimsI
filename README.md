@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @IReimsI
 - 👀 I’m interested in Game development
-- 🌱 I’m currently learning С++
+- 🌱 I’m currently learning С++, C# + Unity 3D.
 - 📫 How to reach me Instagram: _i_reims_i_
